@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>31 Virgiawan Dejan XI RPL 3</title>
+	<title>31 Virgiawan Dejan XI RPL 3 | BELAJAR GIT</title>
 </head>
 <body>
 <?php
